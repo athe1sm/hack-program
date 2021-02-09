@@ -1,0 +1,7 @@
+README.md
+setup.py
+countdownday.egg-info/PKG-INFO
+countdownday.egg-info/SOURCES.txt
+countdownday.egg-info/dependency_links.txt
+countdownday.egg-info/entry_points.txt
+countdownday.egg-info/top_level.txt
